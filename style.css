@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+}
+h1{
+    font-family: Inter;
+font-size: 88px;
+font-weight: 500;
+line-height: 93px;
+text-align: center;
+width: 475px;
+margin: auto;
+padding-top: 95px;
+
+}
+.card{
+    width:393px;
+height: 396px;
+top: 484px;
+left: 100px;
+gap: 60px;
+opacity: 0px;
+text-align: center;
+
+}
+
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 850px;
+}
+footer{
+    margin-top: 750px;
+}
